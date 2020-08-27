@@ -1,8 +1,4 @@
-
-
-<p align="center">
-<h1>City transportation system project</h1>
-</p>
+<center><h1>City transportation system project</h1></center>
 
 
 <p align="center">
