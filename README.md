@@ -1,6 +1,6 @@
 
 
-<center><h1>City transportation system project</h1></center>
+<p align="center"><h1>City transportation system project</h1></p>
 
 
 <p align="center">
