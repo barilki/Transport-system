@@ -26,4 +26,4 @@ Include:
 
 ## Example
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-de7eb32ae084.gif">
+<img src="https://github.com/barilki/Transport-system/blob/master/example.gif?raw=true">
