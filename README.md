@@ -1,11 +1,17 @@
-<center><h1>City transportation project</h1></center>
+
+<center>
+  <h1>City transportation system project</h1>
+</center>
 
 
+<p align="center">
 <img src="https://img.shields.io/badge/made%20by-barilki-blue.svg" >
 <img src="https://img.shields.io/badge/status-stable-brightgreen.svg?style=flat">
 <img src="https://img.shields.io/badge/JAVA-OOP-yellow.svg?style=flat">
 <br>
 <img src="https://www.iconfinder.com/icons/4373217/download/png/128" width="60">
+
+</p>
 
 
 
