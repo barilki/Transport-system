@@ -5,7 +5,7 @@
 
 
 <p align="left">
-<img src="https://img.shields.io/badge/made%20by-barilki-blue.svg" >
+<img src="https://img.shields.io/badge/made%20by-barilki & shaymanasherov-blue.svg" >
 <img src="https://img.shields.io/badge/status-stable-brightgreen.svg?style=flat">
 <img src="https://img.shields.io/badge/JAVA-OOP-yellow.svg?style=flat">
 <br>
